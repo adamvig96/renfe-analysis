@@ -1,6 +1,6 @@
 # renfe-analysis
 
-This is a repository for analysing Spanish high speed rail ticket pricing
+Quantitive analysis of high speed railway's dynamic pricing strategy in Spain
 
-data from Kaggle: https://www.kaggle.com/thegurusteam/spanish-high-speed-rail-system-ticket-pricing
+OSF: https://osf.io/tzcj8/
 
