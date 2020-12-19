@@ -1,11 +1,9 @@
 data
-Renfe-David
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
 .ipynb_checkpoints
-thegurus-opendata-renfe-trips.csv
-thegurus-opendata-renfe-trips.csv.zip
 descriptive.xlsx
-litrev_data_descr.docx
-data_descriptive_evidence.docx
+paper_parts/
+HSR_data.zip
+velkey_vig_trans_econ_paper.docx
